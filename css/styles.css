@@ -1,0 +1,32 @@
+/* ====================
+GENERAL STYLES
+==================== */
+* {
+  font-family: 'Cuprum', sans-serif;
+}
+
+*,
+*:before,
+*:after, {
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+/* ====================
+HEADER
+==================== */
+header {
+  text-align: center;
+}
+
+/* ====================
+LIGHTBOX
+==================== */
+#lightbox {
+  text-align: center;
+}
+
+
+ul {
+  list-style: none;
+}
